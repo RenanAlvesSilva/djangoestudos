@@ -1,0 +1,68 @@
+.box{
+    
+    width: 300px;
+    height: 250px;
+    margin: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    
+    padding: 40px;
+    
+    background: rgba(255, 255, 255, 0.14);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3.4px);
+    -webkit-backdrop-filter: blur(3.4px);
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    
+}
+.container{
+   display: flex;
+   
+   
+}
+.bg{
+    width: 200px;
+    height: 200px;
+}
+.cancela{
+    width: 180px;
+    height: 180px;
+}
+.cancel{
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 17px;
+}
+.segurança{
+    width: 150px;
+    height: 180px;
+}
+.seg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    justify-content: space-between
+    
+}
+
+#bg{
+    background: no-repeat;
+    background-size: 1800px 900px;
+}
+h6{
+    color: #ffff;
+}
+header{
+    margin: 0;
+}
+.mb{
+    text-align: center;
+}
